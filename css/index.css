@@ -1,0 +1,43 @@
+#navbar {
+    position: absolute;
+    left: 60%;
+    transform: translateX(15%);
+}
+
+#imagen {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.DP {
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.datos {
+    border-color: 0;
+    border-width: 2px;
+    border-style: inset;
+    text-align: center;
+    width: 300px;
+
+}
+
+.externo {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.descripcion {
+    text-align: center;
+    width: 1000px;
+    border-radius: 49px;
+    border-style: inset;
+    border-width: 2px;
+}
+
+/* */
