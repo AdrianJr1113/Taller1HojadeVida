@@ -10,12 +10,6 @@
     border-radius: 50%;
 }
 
-.DP {
-    font-weight: bolder;
-    text-align: center;
-
-}
-
 .datos {
     border-color: 0;
     border-width: 2px;
@@ -29,6 +23,19 @@
     align-items: center;
     display: flex;
     justify-content: center;
+
+}
+
+.DP {
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.HV {
+    font-weight: bolder;
+    text-align: center;
+    color: darkgrey;
 
 }
 
