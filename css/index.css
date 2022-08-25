@@ -10,6 +10,8 @@
     border-radius: 50%;
 }
 
+
+
 .datos {
     border-color: 0;
     border-width: 2px;
@@ -23,8 +25,24 @@
     align-items: center;
     display: flex;
     justify-content: center;
-
 }
+
+
+.externo2 {
+    align-items: center;
+    display: flex;
+    justify-content: left;
+}
+
+
+.descripcion {
+    text-align: center;
+    width: 1000px;
+    border-radius: 49px;
+    border-style: inset;
+    border-width: 2px;
+}
+
 
 .DP {
     font-weight: bolder;
@@ -36,15 +54,27 @@
     font-weight: bolder;
     text-align: center;
     color: darkgrey;
+    
 
 }
 
-.descripcion {
+.HVC {
+    
     text-align: center;
-    width: 1000px;
-    border-radius: 49px;
-    border-style: inset;
-    border-width: 2px;
 }
 
-/* */
+/* 
+
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+	margin-right: -15px;
+    margin-left: -15px;
+}
+.col-12{
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+
+*/
